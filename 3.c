@@ -1,2 +1,4 @@
 #include <stdio.h>
 void con(){}
+void add(){}
+void sub(){}
