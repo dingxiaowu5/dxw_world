@@ -4,3 +4,4 @@ void add(){}
 void sub(){}
 void mul(){}
 void main(){}
+void mmm(){}
